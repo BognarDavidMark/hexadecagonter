@@ -15,12 +15,12 @@ public class hexadecagonter {
 		
 	System.out.println("Bognár Dávid Márk, Szoft I/N, 2022.03.08.");
 	System.out.println("Hexadecagon területet számol");
-	* 		
+			
 	Scanner scan = new Scanner(System.in);
 	System.out.print("Oldalhossz: ");
 	double oldal = scan.nextDouble();
 	
-	double terulet = 4*(oldal*oldal)*cot*(Math.PI/16);
+//	double terulet = 4*(oldal*oldal)*cot*(Math.PI/16);
 	
 //	System.out.println("Az alakzat területe: " + terulet);
 	
